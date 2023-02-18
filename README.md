@@ -1,2 +1,2 @@
 # fuzzy-matching
-Fuzzy String Matching on Company Names
+Fuzzy String Matching on Company Names.
